@@ -121,4 +121,4 @@ class ArrayStack(object):
 Stack = LinkedStack
 # Stack = ArrayStack
 
-# print("Stack")
+# print("Stack")cle
